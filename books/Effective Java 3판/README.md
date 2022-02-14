@@ -1,4 +1,4 @@
-Effective Java 3판
+Effective Java 3/E
 ==================================================
-![표지](./images/표지.jpg)
+![표지](./images/표지.jpeg)
 
