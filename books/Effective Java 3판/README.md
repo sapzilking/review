@@ -1,4 +1,4 @@
-Effective Java 3/E
+『이펙티브 자바 3판』(원서: Effective Java 3rd Edition)
 ==================================================
 ![표지](./images/표지.jpeg)
 
