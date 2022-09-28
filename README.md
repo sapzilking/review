@@ -1,7 +1,7 @@
 # 도서, 강의, 세미나 등의 후기
 
 ## 도서
-- [Kotlin In Action](https://github.com/sapzilking/review/blob/main/books/Kotlin%20In%20Action/README.md)
+- [Kotlin In Action - 드미트리 제메로프, 스베트라나 이사코바](https://github.com/sapzilking/review/blob/main/books/Kotlin%20In%20Action/README.md)
 
 ## 강의
 - KOCW
