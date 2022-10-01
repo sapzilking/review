@@ -4,3 +4,4 @@
 
 - [2장](https://github.com/sapzilking/review/blob/main/books/Kotlin%20In%20Action/Chapter2/chapter2.md)
 - [3장](https://github.com/sapzilking/review/blob/main/books/Kotlin%20In%20Action/Chapter3/chapter3.md)
+- [4장](https://github.com/sapzilking/review/blob/main/books/Kotlin%20In%20Action/Chapter4/chapter4.md)
