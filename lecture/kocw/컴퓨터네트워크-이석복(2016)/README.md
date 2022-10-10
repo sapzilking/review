@@ -1,4 +1,4 @@
-> [강의 링크]([http://www.kocw.net/home/search/kemView.do?kemId=1046323](http://www.kocw.net/home/cview.do?cid=0458b5381aa336dc))
+> [강의 링크](http://www.kocw.net/home/cview.do?cid=0458b5381aa336dc)
 
 <br>
 
